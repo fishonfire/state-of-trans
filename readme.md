@@ -23,3 +23,14 @@ Example
 ```bash
 state-of-trans ./lang/translations en
 ```
+
+## NPM script
+
+Add to package.json
+```
+{
+  "scripts": {
+    "translations": "state-of-trans ./lang/translations en"
+  }
+}
+```
