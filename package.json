@@ -1,0 +1,17 @@
+{
+  "name": "@appeitje/state-of-trans",
+  "version": "0.0.1",
+  "description": "compare translation files to find missing keys and empty values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gareth Loot",
+  "license": "ISC",
+  "bin": {
+    "state-of-trans": "./cli.mjs"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
