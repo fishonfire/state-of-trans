@@ -6,10 +6,10 @@ Compare translation json files and find missing keys
 
 ```bash
 # using npm
-npm install @appeitje/state-of-trans
+npm install @fishonfire/state-of-trans
 
 # using yarn
-yarn add @appeitje/state-of-trans
+yarn add @fishonfire/state-of-trans
 ```
 
 You can also instal it globally
