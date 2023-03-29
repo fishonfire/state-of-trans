@@ -2,7 +2,6 @@ import fs from 'node:fs'
 import path from 'node:path'
 
 export const createConfig = (jsonInDir, dir, defaultLang) => {
-  console.log(jsonInDir, dir)
   const config = {
     languages: [],
   }

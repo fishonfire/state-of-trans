@@ -6,11 +6,13 @@ Compare translation json files and find missing keys
 
 ```bash
 # using npm
-npm install state-of-trans
+npm install @appeitje/state-of-trans
 
 # using yarn
-yarn add state-of-trans
+yarn add @appeitje/state-of-trans
 ```
+
+You can also instal it globally
 
 ## Usage
 
