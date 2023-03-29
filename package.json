@@ -2,12 +2,13 @@
   "name": "@appeitje/state-of-trans",
   "version": "0.0.1",
   "description": "compare translation files to find missing keys and empty values",
-  "main": "index.js",
+  "main": "cli.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gareth Loot",
   "license": "ISC",
+  "repository": "https://github.com/garethloot/state-of-trans",
   "bin": {
     "state-of-trans": "./cli.mjs"
   },
