@@ -1,6 +1,6 @@
 {
   "name": "@appeitje/state-of-trans",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "compare translation files to find missing keys and empty values",
   "main": "cli.mjs",
   "scripts": {
