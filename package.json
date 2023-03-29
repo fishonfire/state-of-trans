@@ -1,6 +1,6 @@
 {
-  "name": "@appeitje/state-of-trans",
-  "version": "0.0.2",
+  "name": "@fishonfire/state-of-trans",
+  "version": "0.0.3",
   "description": "compare translation files to find missing keys and empty values",
   "main": "cli.mjs",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "author": "Gareth Loot",
   "license": "ISC",
-  "repository": "https://github.com/garethloot/state-of-trans",
+  "repository": "https://github.com/fishonfire/state-of-trans",
   "bin": {
     "state-of-trans": "./cli.mjs"
   },
